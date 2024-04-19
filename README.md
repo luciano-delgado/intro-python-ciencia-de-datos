@@ -1,4 +1,4 @@
-# intro-python-ciencia-de-datos 🐍
+# Introducción a Python para Ciencia de Datos 🐍
 Este es un curso brindando por el equipo de trabajo de LVL-UP 🚀
 
 # Acerca del curso
