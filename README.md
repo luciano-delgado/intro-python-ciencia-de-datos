@@ -1,5 +1,7 @@
 # Introducción a Python para Ciencia de Datos 🐍
 Este es un curso brindando por el equipo de trabajo de LVL-UP 🚀
+Docente: Luciano Delgado
+Equipo: Cecilia Enrich y Franco Di Leo
 
 # Acerca del curso
 Este curso está orientado a que puedas comprender Python como lenguaje de programación. Entiendas su sintaxis básica y puedas resolver problemas técnicos y algoritmos con este lenguaje. Es un curso introductorio y las últimas clases estarán orientadas a conceptos de análisis de datos a través de la integración de librerías como:
