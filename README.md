@@ -21,7 +21,7 @@ Este curso está orientado a que puedas comprender Python como lenguaje de progr
 # Organización
 - Clases: Teórico prácticas que quedan grabadas.
 - Material: Repositorio de Github
-- Consultas Python: Comunidad LVLUP en Discord. Canal del curso *#intro-python-ciencia-de-datos*.
+- Consultas Python: Comunidad LVLUP en Discord (canal del curso para consultas generales *"#intro-python-ciencia-de-datos"* -https://discord.com/channels/1168570947444408420/1231204932946755584- / Foro de consultas específicas de ejercicios *"consulta-jercicios"* -https://discord.com/channels/1168570947444408420/1231382978077266001-)
 - Consultas Administrativas: Grupo Whatsapp del Curso.
 - Tutorial acceso al repositorio: (https://drive.google.com/file/d/1X9tCFPOs9VwNJe5FIaSt93jdQuTCTt1R/view)
 - Práctica: Los ejercicios de clase y tarea serán opcionales mientras que el Proyecto final será obligatorio. Ambos podrán entregar enviando por mail a la casilla **python@lvl-up.tech** 
