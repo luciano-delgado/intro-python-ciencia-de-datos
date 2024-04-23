@@ -1,6 +1,8 @@
 # Introducción a Python para Ciencia de Datos 🐍
 Este es un curso brindando por el equipo de trabajo de LVL-UP 🚀
+
 Docente: Luciano Delgado
+
 Equipo: Cecilia Enrich y Franco Di Leo
 
 # Objetivos
