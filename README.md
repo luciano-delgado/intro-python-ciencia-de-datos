@@ -24,3 +24,4 @@ Este curso está orientado a que puedas comprender Python como lenguaje de progr
 - Consultas Python: Comunidad LVLUP en Discord. Canal del curso *#intro-python-ciencia-de-datos*.
 - Consultas Administrativas: Grupo Whatsapp del Curso.
 - Tutorial acceso al repositorio: (https://drive.google.com/file/d/1X9tCFPOs9VwNJe5FIaSt93jdQuTCTt1R/view)
+- Práctica: Los ejercicios de clase y tarea serán opcionales mientras que el Proyecto final será obligatorio. Ambos podrán entregar enviando por mail a la casilla **python@lvl-up.tech** 
