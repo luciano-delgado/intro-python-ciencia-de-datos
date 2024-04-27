@@ -1,4 +1,4 @@
-📄Ejercicios de tarea:
+# 📄Ejercicios de tarea:
 Se entregarán individualmente y corresponden a los presentes en el notebook de la clase que sean marcados con el siguiente símbolo 🫴🏻
 
 Ejercicios
