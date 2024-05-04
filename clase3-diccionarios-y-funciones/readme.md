@@ -4,10 +4,10 @@ Se entregarán individualmente y corresponden a los presentes en el notebook de 
 
 Ejercicios
 
-Parte 1 - tarea 1
-Parte 1 - tarea 2
-Parte 2 - tarea 1
-Parte 2 - tarea 2
+- Parte 1 - tarea 1
+- Parte 1 - tarea 2
+- Parte 2 - tarea 1
+- Parte 2 - tarea 2
 
 Link a la clase grabada: []
 
