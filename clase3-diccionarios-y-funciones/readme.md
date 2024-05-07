@@ -9,6 +9,6 @@ Ejercicios
 - Parte 2 - tarea 1
 - Parte 2 - tarea 2
 
-Link a la clase grabada: []
+Link a la clase grabada:  https://drive.google.com/file/d/1THLi3LxuMUQf8WG1iL_YB9jk8iH_f3Ew/view?usp=drive_link 
 
 ❔Ante cualquier duda, acudir a la comunidad de Discord en el canal de Python dentro del foro de "Consultas" (https://discord.com/channels/1168570947444408420/1231382978077266001) o al grupo de Whatsapp del curso.
