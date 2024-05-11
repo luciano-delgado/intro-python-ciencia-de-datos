@@ -8,7 +8,7 @@ Nota: Para hacer una copia ir a "**Archivo > Guardar una copia en Drive**".
 
 Te sugerimos intentar resolverlo por tu cuenta antes de ver la solución, recuerda que la práctica es clave para fijar el conocimiento.
 
-# **🚨IMPORTANTE: Forma de uso de este notebook:**´
+# **🚨IMPORTANTE: Forma de uso de este notebook:**
 
 Debes hacer una **copia** de este cuaderno para poder editarlo y trabajar sobre el mismo sin que eso afecte el workbook original.
 
