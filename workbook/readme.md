@@ -4,6 +4,11 @@ Link al Colab notebook: https://colab.research.google.com/drive/1CASdUo7VKJz_YpW
 
 En este workbook encontrarán ejercicios para cada clase, además al final de cada sección tendrás las resoluciones.
 
-Nota: Para hacer una copia ir a "Archivo > Guardar una copia en Drive".
+Nota: Para hacer una copia ir a "**Archivo > Guardar una copia en Drive**".
 
 Te sugerimos intentar resolverlo por tu cuenta antes de ver la solución, recuerda que la práctica es clave para fijar el conocimiento.
+
+# **🚨IMPORTANTE: Forma de uso de este notebook:**´
+
+Debes hacer una **copia** de este cuaderno para poder editarlo y trabajar sobre el mismo sin que eso afecte el workbook original.
+
