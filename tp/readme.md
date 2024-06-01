@@ -2,4 +2,4 @@
 
 En esta sección encontrarán un notebook con el enunciado del TP para poder ir realizando el análisis solicitado.
 
-Fecha tope de entrega estimada: **22/9/2024**
+Fecha tope de entrega estimada: **29/6/2024**
